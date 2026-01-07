@@ -1,5 +1,10 @@
 #04Jan
+#back to basic: https://labex.io/learn/python
+# https://github.com/ckan/ckan - this calim Govt of Canada has larget dataset available
+# https://python-memo.fabrice-salvaire.fr/examples/snippets/sysadmin.html Is this memo good for SysAdmin?
 #started with Admin task like path, os: https://docs.python.org/3/library/pathlib.html
+#https://labex.io/pythoncheatsheet/ CheatSheet?
+#
 
 from pathlib import Path
 p = Path('.')
