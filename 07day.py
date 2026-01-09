@@ -1,4 +1,6 @@
 #2026Jan07 - system admin
+#completed labex.io  - numeric, strings, boolean, operatos, type conversion
+
 #https://python-memo.fabrice-salvaire.fr/examples/snippets/sysadmin.html
 import os
 import re
